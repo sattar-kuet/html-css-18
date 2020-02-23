@@ -1,0 +1,13 @@
+.link:hover{
+	color: red;
+	background: black;
+	padding: 10px 20px;
+}
+.link:active{
+	aolor:green;
+	background: orange;
+	padding: 10px 20px;
+}
+.link:visited{
+  color: gray;
+}
